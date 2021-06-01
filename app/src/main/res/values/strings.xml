@@ -1,0 +1,519 @@
+<resources>
+    <string name="app_name">VideoProject</string>
+
+    <!-- 热门 [CHAR LIMIT = 20] -->
+    <string name="popular">热门</string>
+
+    <!-- 网红 [CHAR LIMIT = 20] -->
+    <string name="kol">网红</string>
+
+    <!-- 演员 [CHAR LIMIT = 20] -->
+    <string name="actor">演员</string>
+
+    <!-- 歌手 [CHAR LIMIT = 20] -->
+    <string name="singer">歌手</string>
+
+    <!-- 主要奖项 [CHAR LIMIT = 20] -->
+    <string name="awards">主要奖项</string>
+
+    <!-- 主持 [CHAR LIMIT = 20] -->
+    <string name="presenter">主持</string>
+
+    <!-- 模特 [CHAR LIMIT = 20] -->
+    <string name="model">模特</string>
+
+    <!-- 运动员 [CHAR LIMIT = 20] -->
+    <string name="sport">运动员</string>
+
+    <!-- App名稱 - 未命名 [CHAR LIMIT = 20] -->
+    <string name="name">名人粉丝互动平台</string>
+
+    <!-- User Name [CHAR LIMIT = 20] -->
+    <string name="userName">马可</string>
+
+    <!-- 设定 [CHAR LIMIT = 20] -->
+    <string name="settings">设定</string>
+
+    <!-- 购买记录 [CHAR LIMIT = 20] -->
+    <string name="purchase">购买记录</string>
+
+    <!-- 陈赫 [CHAR LIMIT = 20] -->
+    <string name="chenHe">陈赫</string>
+
+    <!-- 演员、歌手、主持人 [CHAR LIMIT = 40] -->
+    <string name="chenHeOccupation">演员、歌手、主持人</string>
+
+    <!-- 陈赫代表作品 [CHAT LIMIT = 40] -->
+    <string name="chenHeMasterwork">爱情公寓\n你好，李焕英\n奔跑吧兄弟\n你好，李焕英\n爱情回来了</string>
+
+    <!-- 陈赫主要奖项 [CHAR LIMIT = 40] -->
+    <string name="chenHeAwards"> 2019年福布斯中国名人榜第一百名</string>
+
+    <!-- 陈赫聊天价格 [CHAT LIMIT = 40] -->
+    <string name="chenHeChatPrice">¥800</string>
+
+    <!-- 陈赫视频价格 [CHAT LIMIT = 40] -->
+    <string name="chenHeVideoPrice">¥20,000</string>
+
+    <!-- 张天爱 [CHAR LIMIT = 20] -->
+    <string name="zhangTianAi">张天爱</string>
+
+    <!-- 张天爱主要奖项 [CHAT LIMIT = 40] -->
+    <string name="zhangTianAiAwards">2018年全国向上向善崇义友善好青年\n第1届金骨朵奖网络剧最佳女主角奖\n中国原创文学风云榜年度最受欢迎演员奖\n2015年第2届横店影视文荣奖最佳女配角奖</string>
+
+    <!-- 张天爱代表作品 [CHAT LIMIT = 40] -->
+    <string name="zhangTianAiMasterwork">中国机长\n太子妃升职记\n建军大业\n爱情进化论</string>
+
+    <!-- 张天爱聊天价格 [CHAT LIMIT = 40] -->
+    <string name="zhangTianAiChatPrice">¥800</string>
+
+    <!-- 张天爱视频价格 [CHAT LIMIT = 40] -->
+    <string name="zhangTianAiVideoPrice">¥20,000</string>
+
+    <!-- 谌龙 [CHAR LIMIT = 20] -->
+    <string name="chenLong">谌龙</string>
+
+    <!-- 羽毛球运动员 [CHAR LIMIT = 40] -->
+    <string name="chenLongOccupation">羽毛球运动员</string>
+
+    <!-- 谌龙主要奖项 [CHAT LIMIT = 40] -->
+    <string name="chenLongAwards">2016年里约奥运会男单冠军\n2012年伦敦奥运会男单季军\n2011年丹麦羽毛球超级赛男单冠军\n2010年中国羽毛球公开赛男单冠军</string>
+
+    <!-- 谌龙聊天价格 [CHAT LIMIT = 40] -->
+    <string name="chenLongChatPrice">¥800</string>
+
+    <!-- 谌龙视频价格 [CHAT LIMIT = 40] -->
+    <string name="chenLongVideoPrice">¥20,000</string>
+
+    <!-- 贾玲 [CHAR LIMIT = 20] -->
+    <string name="jiaLing">贾玲</string>
+
+    <!-- 演员、导演、编剧 [CHAR LIMIT = 40] -->
+    <string name="jiaLingOccupation">演员、导演、编剧</string>
+
+    <!-- 贾玲主要奖项 [CHAT LIMIT = 40] -->
+    <string name="jiaLingMasterwork">喜乐街\n大话捧逗\n芝麻开门\n欢喜密探</string>
+
+    <!-- 贾玲代表作品 [CHAR LIMIT = 40] -->
+    <string name="jiaLingAwards">自编自导自演的电影《你好，李焕英》成为全球单片票房最高的女导演\n2016网易时尚盛典年度最佳喜剧人</string>
+
+    <!-- 贾玲聊天价格 [CHAT LIMIT = 40] -->
+    <string name="jiaLingChatPrice">¥800</string>
+
+    <!-- 贾玲视频价格 [CHAT LIMIT = 40] -->
+    <string name="jiaLingVideoPrice">¥20,000</string>
+
+    <!-- 张静初 [CHAT LIMIT = 20] -->
+    <string name="zhangJingChu">张静初</string>
+
+    <!-- 张静初主要奖项 [CHAT LIMIT = 40] -->
+    <string name="zhangJingChuAwards">第6届华语电影传媒大奖最佳女主角奖\n第30届开罗国际电影节最佳女主角奖\n第29届中国电影金鸡奖最佳女主角提名\n第27届香港电影金像奖最佳女主角提名</string>
+
+    <!-- 张静初代表作品 [CHAR LIMIT = 40] -->
+    <string name="zhangJingChuMasterwork">孔雀\n花腰新娘\n芳香之旅\n红河</string>
+
+    <!-- 张静初聊天价格 [CHAT LIMIT = 40] -->
+    <string name="zhangJingChuChatPrice">¥800</string>
+
+    <!-- 张静初视频价格 [CHAT LIMIT = 40] -->
+    <string name="zhangJingChuVideoPrice">¥20,000</string>
+
+    <!-- 潘晓婷 [CHAR LIMIT = 20] -->
+    <string name="panXiaoTing">潘晓婷</string>
+
+    <!-- 台球花式九球打法选手 [CHAR LIMIT = 40] -->
+    <string name="panXiaoTingOccupation">台球花式九球打法选手</string>
+
+    <!-- 潘晓婷主要奖项 [CHAT LIMIT = 40] -->
+    <string name="panXiaoTingAwards">中国的“九球天后”\n中国台球界第一位获得世界锦标赛冠军的选手\n10次9球世界冠军记录保持者\n2010年广州亚运会美式九球单打冠军</string>
+
+    <!-- 潘晓婷聊天价格 [CHAT LIMIT = 40] -->
+    <string name="panXiaoTingChatPrice">¥400</string>
+
+    <!-- 潘晓婷视频价格 [CHAT LIMIT = 40] -->
+    <string name="panXiaoTingVideoPrice">¥10,000</string>
+
+    <!-- 惠若琪 [CHAR LIMIT = 20] -->
+    <string name="huiRuoQi">惠若琪</string>
+
+    <!-- 排球运动员 [CHAR LIMIT = 40] -->
+    <string name="huiRuoQiOccupation">排球运动员</string>
+
+    <!-- 惠若琪主要奖项 [CHAT LIMIT = 40] -->
+    <string name="huiRuoQiAwards">前女排国家队队长\n2016年里约奥运会冠军\n2011年、2015年亚洲女排锦标赛冠军\n2014年世锦赛亚军</string>
+
+    <!-- 惠若琪聊天价格 [CHAT LIMIT = 40] -->
+    <string name="huiRuoQiChatPrice">¥400</string>
+
+    <!-- 惠若琪视频价格 [CHAT LIMIT = 40] -->
+    <string name="huiRuoQiVideoPrice">¥10,000</string>
+
+    <!-- 王楠 [CHAR LIMIT = 20] -->
+    <string name="wangNan">王楠</string>
+
+    <!-- 乒乓球运动员 [CHAR LIMIT = 40] -->
+    <string name="wangNanOccupation">乒乓球运动员、团中央宣传部文体处处长</string>
+
+    <!-- 王楠主要奖项 [CHAT LIMIT = 40] -->
+    <string name="wangNanAwards">2008年北京奥运会女单女团冠军\n2008年第49届广州世乒赛女团冠军\n2004年雅典奥运会女双冠军</string>
+
+    <!-- 王楠聊天价格 [CHAT LIMIT = 40] -->
+    <string name="wangNanChatPrice">¥400</string>
+
+    <!-- 王楠视频价格 [CHAT LIMIT = 40] -->
+    <string name="wangNanVideoPrice">¥10,000</string>
+
+    <!-- 张国伟 [CHAR LIMIT = 20] -->
+    <string name="zhangGuoWei">张国伟</string>
+
+    <!-- 跳高运动员 [CHAR LIMIT = 40] -->
+    <string name="zhangGuoWeiOccupation">跳高运动员</string>
+
+    <!-- 张国伟主要奖项 [CHAT LIMIT = 40] -->
+    <string name="zhangGuoWeiAwards">2015年国际田联钻石联赛奥斯陆站冠军\n2015年北京田径世锦赛亚军\n2013年打破跳高室内全国纪录</string>
+
+    <!-- 张国伟聊天价格 [CHAT LIMIT = 40] -->
+    <string name="zhangGuoWeiChatPrice">¥400</string>
+
+    <!-- 张国伟视频价格 [CHAT LIMIT = 40] -->
+    <string name="zhangGuoWeiVideoPrice">¥10,000</string>
+
+    <!-- 包贝尔 [CHAR LIMIT = 20] -->
+    <string name="baoBeiEr">包贝尔</string>
+
+    <!-- 演员、导演 [CHAR LIMIT = 40] -->
+    <string name="baoBeiErOccupation">演员、导演</string>
+
+    <!-- 包贝尔代表作品 [CHAT LIMIT = 40] -->
+    <string name="baoBeiMasterwork">“大”人物\n致我们终将逝去的青春\n港囧</string>
+
+    <!-- 包贝尔代表作品 [CHAT LIMIT = 40] -->
+    <string name="baoBeiAwards">第二届网影盛典年度十佳网络剧导演\n第31届中国电影金鸡奖最佳男主角奖\n第32届大众电影百花奖最佳男配角</string>
+
+    <!-- 包贝尔聊天价格 [CHAT LIMIT = 40] -->
+    <string name="baoBeiErChatPrice">¥400</string>
+
+    <!-- 包贝尔视频价格 [CHAT LIMIT = 40] -->
+    <string name="baoBeiErVideoPrice">¥10,000</string>
+
+    <!-- 黄圣依 [CHAR LIMIT = 20] -->
+    <string name="huangShenYi">黄圣依</string>
+
+    <!-- 演员、导演 [CHAR LIMIT = 40] -->
+    <string name="huangShenYiOccupation">演员、歌手、出品人</string>
+
+    <!-- 黄圣依代表作品 [CHAT LIMIT = 40] -->
+    <string name="huangShenYiMasterwork">功夫\n天仙配\n碧血剑</string>
+
+    <!-- 黄圣依主要奖项 [CHAT LIMIT = 40] -->
+    <string name="huangShenYiAwards">第24届香港电影金像奖最佳新人奖提名\n第12届中国电影表演艺术学会最佳新人奖\n第15届中国电影华鼎奖最佳女主角奖</string>
+
+    <!-- 黄圣依聊天价格 [CHAT LIMIT = 40] -->
+    <string name="huangShenYiChatPrice">¥400</string>
+
+    <!-- 黄圣依视频价格 [CHAT LIMIT = 40] -->
+    <string name="huangShenYiVideoPrice">¥10,000</string>
+
+    <!-- 杜淳 [CHAR LIMIT = 20] -->
+    <string name="duChun">杜淳</string>
+
+    <!-- 杜淳代表作品 [CHAT LIMIT = 40] -->
+    <string name="duChunMasterwork">敌营十八年\n虎胆雄心\n走西口</string>
+
+    <!-- 杜淳主要奖项 [CHAT LIMIT = 40] -->
+    <string name="duChunAwards">第12届澳门国际电影节最佳男配角奖\n第31届电视剧“飞天奖”</string>
+
+    <!-- 杜淳聊天价格 [CHAT LIMIT = 40] -->
+    <string name="duChunChatPrice">¥200</string>
+
+    <!-- 杜淳视频价格 [CHAT LIMIT = 40] -->
+    <string name="duChunVideoPrice">¥5,000</string>
+
+    <!-- 周韦彤 [CHAR LIMIT = 20] -->
+    <string name="zhouWeiTong">周韦彤</string>
+
+    <!-- 模特、演员、主持人 [CHAR LIMIT = 40] -->
+    <string name="zhouWeiTongOccupation">模特、演员、主持人</string>
+
+    <!-- 周韦彤代表作品 [CHAT LIMIT = 40] -->
+    <string name="zhouWeiTongMasterwork">夏日里的春天\n大荒野\n决战刹马镇</string>
+
+    <!-- 周韦彤主要奖项 [CHAT LIMIT = 40] -->
+    <string name="zhouWeiTongAwards">第六届中国模特之星大赛冠军\n第六届模特之星最受欢迎模特奖</string>
+
+    <!-- 周韦彤聊天价格 [CHAT LIMIT = 40] -->
+    <string name="zhouWeiTongChatPrice">¥200</string>
+
+    <!-- 周韦彤视频价格 [CHAT LIMIT = 40] -->
+    <string name="zhouWeiTongVideoPrice">¥5,000</string>
+
+    <!-- 赵茜 [CHAR LIMIT = 20] -->
+    <string name="candiceZhou">赵茜</string>
+
+    <!-- 模特、演员、主持人 [CHAR LIMIT = 40] -->
+    <string name="candiceZhouOccupation">模特、演员</string>
+
+    <!-- 赵茜代表作品 [CHAT LIMIT = 40] -->
+    <string name="candiceZhouAwards">蒙特利尔国际花环奖电影节“最佳女主角奖”\n第35届国际比基尼小姐大赛全球亚军、秋季女郎</string>
+
+    <!-- 赵茜聊天价格 [CHAT LIMIT = 40] -->
+    <string name="candiceZhouChatPrice">¥200</string>
+
+    <!-- 赵茜视频价格 [CHAT LIMIT = 40] -->
+    <string name="candiceZhouVideoPrice">¥5,000</string>
+
+    <!-- 金大川 [CHAR LIMIT = 20] -->
+    <string name="jinDaChuan">金大川</string>
+
+    <!-- 金大川代表作品 [CHAT LIMIT = 40] -->
+    <string name="jinDaChuanAwards">第11届年度先生盛典年度模特\n2014搜狐时尚盛典年度超级男模\n第十六届中国模特之星男模组季军</string>
+
+    <!-- 金大川聊天价格 [CHAT LIMIT = 40] -->
+    <string name="jinDaChuanChatPrice">¥400</string>
+
+    <!-- 金大川视频价格 [CHAT LIMIT = 40] -->
+    <string name="jinDaChuanVideoPrice">¥10,000</string>
+
+    <!-- 卢慧敏 [CHAR LIMIT = 20] -->
+    <string name="louWaiMan">卢慧敏</string>
+
+    <!-- 卢慧敏代表作品 [CHAT LIMIT = 40] -->
+    <string name="louWaiManMasterwork">Kai Pop\n身后事务所</string>
+
+    <!-- 卢慧敏聊天价格 [CHAT LIMIT = 40] -->
+    <string name="louWaiManChatPrice">¥400</string>
+
+    <!-- 卢慧敏视频价格 [CHAT LIMIT = 40] -->
+    <string name="louWaiManVideoPrice">¥10,000</string>
+
+    <!-- 王腾毅 [CHAR LIMIT = 20] -->
+    <string name="jackWong">王腾毅</string>
+
+    <!-- 王腾毅代表作品 [CHAT LIMIT = 40] -->
+    <string name="jackWongAwards">2014伊林璀璨之星</string>
+
+    <!-- 王腾毅聊天价格 [CHAT LIMIT = 40] -->
+    <string name="jackWongChatPrice">¥200</string>
+
+    <!-- 王腾毅视频价格 [CHAT LIMIT = 40] -->
+    <string name="jackWongVideoPrice">¥5,000</string>
+
+    <!-- 张碧晨 [CHAR LIMIT = 20] -->
+    <string name="zhangBiChen">张碧晨</string>
+
+    <!-- 模特、演员、主持人 [CHAR LIMIT = 40] -->
+    <string name="zhangBiChenOccupation">流行乐歌手</string>
+
+    <!-- 张碧晨代表作品 [CHAT LIMIT = 40] -->
+    <string name="zhangBiChenMasterwork">曾经守候\n凉凉\n年轮\n开往早晨的午夜</string>
+
+    <!-- 张碧晨主要奖项 [CHAR LIMIT = 40] -->
+    <string name="zhangBiChenAwards">2017亚洲金曲大赏内地最受欢迎女歌手奖</string>
+
+    <!-- 张碧晨聊天价格 [CHAT LIMIT = 40] -->
+    <string name="zhangBiChenChatPrice">¥400</string>
+
+    <!-- 张碧晨视频价格 [CHAT LIMIT = 40] -->
+    <string name="zhangBiChenVideoPrice">¥10,000</string>
+
+    <!-- 李健 [CHAR LIMIT = 20] -->
+    <string name="liJian">李健</string>
+
+    <!-- 李健代表作品 [CHAT LIMIT = 40] -->
+    <string name="liJianMasterwork">传奇\n风吹麦浪\n贝加尔湖畔</string>
+
+    <!-- 李健主要奖项 [CHAT LIMIT = 40] -->
+    <string name="liJianAwards">全球华语音乐榜中榜内地最佳创作歌手</string>
+
+    <!-- 李健聊天价格 [CHAT LIMIT = 40] -->
+    <string name="liJianChatPrice">¥200</string>
+
+    <!-- 李健视频价格 [CHAT LIMIT = 40] -->
+    <string name="liJianVideoPrice">¥5,000</string>
+
+    <!-- 李莎旻子 [CHAR LIMIT = 20] -->
+    <string name="leoLi">李莎旻子</string>
+
+    <!-- 模特、演员、主持人 [CHAR LIMIT = 40] -->
+    <string name="leoLiOccupation">歌手、主持人、演员</string>
+
+    <!-- 李莎旻子代表作品 [CHAT LIMIT = 40] -->
+    <string name="leoLiMasterwork">一站到底\n开门大吉\n无话，不说</string>
+
+    <!-- 李莎旻子聊天价格 [CHAT LIMIT = 40] -->
+    <string name="leoLiChatPrice">¥200</string>
+
+    <!-- 李莎旻子视频价格 [CHAT LIMIT = 40] -->
+    <string name="leoLiVideoPrice">¥5,000</string>
+
+    <!-- 聊天 [CHAR LIMIT = 20] -->
+    <string name="chat">聊天</string>
+
+    <!-- 聊天内容 [CHAR LIMIT = 40] -->
+    <string name="chatDescription"></string>
+
+    <!-- 叶莺 [CHAR LIMIT = 40] -->
+    <string name="ip">叶莺</string>
+
+    <!-- 叶莺代表作品 [CHAT LIMIT = 40] -->
+    <string name="ipMasterwork">只愿爱是手中线</string>
+
+    <!-- 叶莺聊天价格 [CHAT LIMIT = 40] -->
+    <string name="ipChatPrice">¥200</string>
+
+    <!-- 叶莺视频价格 [CHAT LIMIT = 40] -->
+    <string name="ipVideoPrice">¥5,000</string>
+
+    <!-- 刘宇宁 [CHAR LIMIT = 40] -->
+    <string name="laujyuning">刘宇宁</string>
+
+    <!-- 歌手、演员 [CHAR LIMIT = 40] -->
+    <string name="laujyuningOccupation">歌手、演员</string>
+
+    <!-- 刘宇宁代表作品 [CHAT LIMIT = 40] -->
+    <string name="laujyuningMasterwork">让酒\n想象\n乞丐\n如约</string>
+
+    <!-- 刘宇宁主要奖项 [CHAT LIMIT = 40] -->
+    <string name="laujyuningAwards">2019年第23届全球华语榜中榜年度最佳新人奖</string>
+
+    <!-- 刘宇宁聊天价格 [CHAT LIMIT = 40] -->
+    <string name="laujyuningChatPrice">¥200</string>
+
+    <!-- 刘宇宁视频价格 [CHAT LIMIT = 40] -->
+    <string name="laujyuningVideoPrice">¥5,000</string>
+
+    <!-- 王艾米 [CHAR LIMIT = 40] -->
+    <string name="emiWong">王艾米</string>
+
+    <!-- 模特、演员、主持人 [CHAR LIMIT = 40] -->
+    <string name="emiWongOccupation">网红</string>
+
+    <!-- 王艾米代表作品 [CHAT LIMIT = 40] -->
+    <string name="emiWongMasterwork">香港著名健身网红</string>
+
+    <!-- 王艾米聊天价格 [CHAT LIMIT = 40] -->
+    <string name="emiWongChatPrice">¥200</string>
+
+    <!-- 王艾米视频价格 [CHAT LIMIT = 40] -->
+    <string name="emiWongVideoPrice">¥5,000</string>
+
+    <!-- 陈茜茜 [CHAR　LIMIT = 40] -->
+    <string name="nanaChan">陈茜茜</string>
+
+    <!-- 陈茜茜代表作品 [CHAT LIMIT = 40] -->
+    <string name="nanaChanMasterwork">美妆网红</string>
+
+    <!-- 陈茜茜聊天价格 [CHAT LIMIT = 40] -->
+    <string name="nanaChanChatPrice">¥200</string>
+
+    <!-- 陈茜茜视频价格 [CHAT LIMIT = 40] -->
+    <string name="nanaChanVideoPrice">¥5,000</string>
+
+    <!-- 郭聪明 [CHAR LIMIT = 40] -->
+    <string name="kwok">郭聪明</string>
+
+    <!-- 郭聪明代表作品 [CHAT LIMIT = 40] -->
+    <string name="kwokMasterwork">耗尽</string>
+
+    <!-- 郭聪明主要奖项 [CHAT LIMIT = 40] -->
+    <string name="kwokAwards">克劳锐“2019年度最具影响力主播”</string>
+
+    <!-- 郭聪明聊天价格 [CHAT LIMIT = 40] -->
+    <string name="kwokChatPrice">¥200</string>
+
+    <!-- 郭聪明视频价格 [CHAT LIMIT = 40] -->
+    <string name="kwokVideoPrice">¥5,000</string>
+
+    <!-- 周二珂 [CHAR LIMIT = 40] -->
+    <string name="chau">周二珂</string>
+
+    <!-- 模特、演员、主持人 [CHAR LIMIT = 40] -->
+    <string name="chauOccupation">网红、歌手</string>
+
+    <!-- 周二珂代表作品 [CHAT LIMIT = 40] -->
+    <string name="chauMasterwork">三角题\n孤独她呀</string>
+
+    <!-- 周二珂主要奖项 [CHAT LIMIT = 40] -->
+    <string name="chauAwards">入选2019年福布斯中国30岁以下精英榜</string>
+
+    <!-- 周二珂聊天价格 [CHAT LIMIT = 40] -->
+    <string name="chauChatPrice">¥200</string>
+
+    <!-- 周二珂视频价格 [CHAT LIMIT = 40] -->
+    <string name="chauVideoPrice">¥5,000</string>
+
+    <!-- 吴佳煜 [CHAR LIMIT = 40] -->
+    <string name="ng">吴佳煜</string>
+
+    <!-- 吴佳煜代表作品 [CHAT LIMIT = 40] -->
+    <string name="ngMasterwork">Say Goodbye</string>
+
+    <!-- 吴佳煜主要奖项 [CHAT LIMIT = 40] -->
+    <string name="ngAwards">“我是头条·2017年今日头条年度盛典”年度抖音达人\n第五届 “中国品牌·文娱”年度盛典“年度新锐艺人”奖</string>
+
+    <!-- 吴佳煜聊天价格 [CHAT LIMIT = 40] -->
+    <string name="ngChatPrice">¥200</string>
+
+    <!-- 吴佳煜视频价格 [CHAT LIMIT = 40] -->
+    <string name="ngVideoPrice">¥5,000</string>
+
+    <!-- 代表作 [CHAR LIMIT = 40] -->
+    <string name="masterpiece">代表作</string>
+
+    <!-- 5.0 评分 [CHAR LIMIT = 10] -->
+    <string name="fiveStarRating">5.0</string>
+
+    <!-- 4.0 评分 [CHAR LIMIT = 10] -->
+    <string name="fourStarRating">4.0</string>
+
+    <!-- 3.0 评分 [CHAR LIMIT = 10] -->
+    <string name="threeStarRating">3.0</string>
+
+    <!-- 2.0 评分 [CHAR LIMIT = 10] -->
+    <string name="twoStarRating">2.0</string>
+
+    <!-- 1.0 评分 [CHAR LIMIT = 10] -->
+    <string name="oneStarRating">1.0</string>
+
+    <!-- first chat in chat fragment [CHAR LIMIT = 40] -->
+    <string name="ruiruoqiChat">我的梦想是进入国家排球队，有什么建议吗?</string>
+
+    <!-- second chat in chat_fragment [CHAR LIMIT = 40] -->
+    <string name="zhangBiChenChat">我很喜欢听你唱歌，什么时候开演唱会?</string>
+
+    <!-- third chat in chat fragment [CHAR LIMIT = 40] -->
+    <string name="chenHeChat">你在爱情公寓裹面，演戏的灵感是从...</string>
+<!--    <string name="chenHeChat">你在爱情公寓裹面，演戏的灵感是从那裹来?</string>-->
+
+    <!-- fourth chat in chat fragment [CHAR LIMIT = 40] -->
+    <string name="jackWongChat">最近都比较忙, 为时装走秀作准备</string>
+
+    <!-- Yesterday [CHAR LIMIT = 20] -->
+    <string name="yesterday">昨天</string>
+
+    <!-- 麦长青 [CHAR LIMIT = 40] -->
+    <string name="makCheungChing">麦长青</string>
+
+    <!-- 麦长青代表作品 [CHAT LIMIT = 40] -->
+    <string name="makCheungChingMasterwork">巾帼枭雄之义海豪情\n茶是故乡浓</string>
+
+    <!-- 麦长青主要奖项 [CHAT LIMIT = 40] -->
+    <string name="makCheungChingAwards">第十六届亚洲电视大奖最佳男配角\n第43届万千星辉颁奖典典礼最佳男配角</string>
+
+    <!-- 麦长青聊天价格 [CHAT LIMIT = 40] -->
+    <string name="makCheungChingChatPrice">¥200</string>
+
+    <!-- 麦长青视频价格 [CHAT LIMIT = 40] -->
+    <string name="makCheungChingVideoPrice">¥5,000</string>
+
+    <string name="title_activity_celebrity2">celebrityActivity2</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

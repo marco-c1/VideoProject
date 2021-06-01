@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.VideoProject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".CelebrityActivity2"
+            android:label="@string/title_activity_celebrity2"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CelebrityActivity"
+            android:label="Celebrity Activity" />
+        <activity
+            android:name=".CelebrityDetailActivityPopular"
+            android:label="Celebrity Detail Activity Popular" />
+        <activity
+            android:name=".CelebrityDetailActivityActor"
+            android:label="Celebrity Detail Activity Actor" />
+        <activity
+            android:name=".CelebrityDetailActivityKol"
+            android:label="Celebrity Detail Activity Kol" />
+        <activity
+            android:name=".CelebrityDetailActivityModel"
+            android:label="Celebrity Detail Activity Model" />
+        <activity
+            android:name=".CelebrityDetailActivitySinger"
+            android:label="Celebrity Detail Activity Singer" />
+        <activity
+            android:name=".CelebrityDetailActivitySport"
+            android:label="Celebrity Detail Activity Sport" />
+    </application>
+
+</manifest>
